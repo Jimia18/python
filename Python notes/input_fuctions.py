@@ -1,0 +1,5 @@
+#input()
+students_name = input("enter your name")
+students_age = input(x=20)                      
+print("my name is Jimia")
+print(type(students_name),(students_age))
