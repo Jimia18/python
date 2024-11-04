@@ -62,3 +62,4 @@ for student in studentNames:
 studentMarks = [80,70,60]
 totalMarks = sum(studentMarks)
 print(f"The total marks for the students is:{totalMarks}",)
+.
